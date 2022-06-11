@@ -7,3 +7,7 @@ H:\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.pdb
 H:\DatabaseProject\DatabaseProject\DacPac\DatabaseProject.dacpac
 H:\DatabaseProject\DatabaseProject\DacPac\DatabaseProject.dll
 H:\DatabaseProject\DatabaseProject\DacPac\DatabaseProject.pdb
+H:\DatabaseProject\DatabaseProject\obj\Debug\Model.xml
+H:\DatabaseProject\DatabaseProject\obj\Debug\refactor.xml
+H:\DatabaseProject\DatabaseProject\obj\Debug\postdeploy.sql
+H:\DatabaseProject\DatabaseProject\obj\Debug\predeploy.sql
