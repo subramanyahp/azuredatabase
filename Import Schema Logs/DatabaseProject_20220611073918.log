@@ -1,0 +1,75 @@
+11-06-2022 01:09:19	This log contains information about the import schema operation into project 'DatabaseProject' on computer 'SUBBU' by user 'subbu'.
+11-06-2022 01:09:20	Import of database schema has started.
+11-06-2022 01:09:39	Gathering database options
+11-06-2022 01:09:39	Gathering users
+11-06-2022 01:09:39	Gathering roles
+11-06-2022 01:09:39	Gathering application roles
+11-06-2022 01:09:39	Gathering role memberships
+11-06-2022 01:09:39	Gathering filegroups
+11-06-2022 01:09:39	Gathering full-text catalogs
+11-06-2022 01:09:39	Gathering assemblies
+11-06-2022 01:09:39	Gathering certificates
+11-06-2022 01:09:39	Gathering asymmetric keys
+11-06-2022 01:09:39	Gathering symmetric keys
+11-06-2022 01:09:39	Gathering encrypted symmetric keys
+11-06-2022 01:09:39	Gathering schemas
+11-06-2022 01:09:48	Gathering XML schema collections
+11-06-2022 01:09:48	Gathering user-defined data types
+11-06-2022 01:09:48	Gathering user-defined types
+11-06-2022 01:09:48	Gathering table types
+11-06-2022 01:09:48	Gathering unique keys for table types
+11-06-2022 01:09:48	Gathering primary keys for table types
+11-06-2022 01:09:48	Gathering check constraints for table types
+11-06-2022 01:09:48	Gathering default constraints for table types
+11-06-2022 01:09:48	Gathering partition functions
+11-06-2022 01:09:48	Gathering partition schemes
+11-06-2022 01:09:48	Gathering functions
+11-06-2022 01:09:48	Gathering encrypted functions
+11-06-2022 01:09:50	Gathering aggregates
+11-06-2022 01:09:50	Gathering procedures
+11-06-2022 01:09:50	Gathering encrypted procedures
+11-06-2022 01:09:50	Gathering tables
+11-06-2022 01:09:50	Gathering primary keys
+11-06-2022 01:09:54	Gathering unique constraints
+11-06-2022 01:09:54	Gathering foreign keys
+11-06-2022 01:09:54	Gathering default constraints
+11-06-2022 01:09:54	Gathering check constraints
+11-06-2022 01:09:55	Gathering views
+11-06-2022 01:09:55	Gathering encrypted views
+11-06-2022 01:09:55	Gathering indexes
+11-06-2022 01:09:55	Gathering statistics
+11-06-2022 01:09:55	Gathering full-text index stoplists
+11-06-2022 01:09:55	Gathering search property lists
+11-06-2022 01:09:55	Gathering search properties
+11-06-2022 01:09:55	Gathering full-text indexes
+11-06-2022 01:09:55	Gathering column store indexes
+11-06-2022 01:09:55	Gathering spatial indexes
+11-06-2022 01:09:55	Gathering XML indexes
+11-06-2022 01:09:55	Gathering encrypted triggers
+11-06-2022 01:09:55	Gathering triggers
+11-06-2022 01:09:55	Gathering encrypted and clr ddl triggers
+11-06-2022 01:10:03	Gathering ddl triggers
+11-06-2022 01:10:03	Gathering synonyms
+11-06-2022 01:10:03	Gathering defaults
+11-06-2022 01:10:03	Gathering data constraint uddt bindings
+11-06-2022 01:10:03	Gathering rules
+11-06-2022 01:10:03	Gathering data constraint uddt bindings
+11-06-2022 01:10:03	Gathering message types
+11-06-2022 01:10:03	Gathering queues
+11-06-2022 01:10:03	Gathering contracts
+11-06-2022 01:10:03	Gathering services
+11-06-2022 01:10:03	Gathering event notifications
+11-06-2022 01:10:03	Gathering remote service bindings
+11-06-2022 01:10:03	Gathering broker priorities
+11-06-2022 01:10:03	Gathering signatures
+11-06-2022 01:10:03	Gathering data compression options
+11-06-2022 01:10:03	Gathering sequence types
+11-06-2022 01:10:03	Gathering extended properties
+11-06-2022 01:10:04	Gathering credentials
+11-06-2022 01:10:04	Gathering logins
+11-06-2022 01:10:04	Gathering server audits
+11-06-2022 01:10:06	Scanning project for duplicate elements
+11-06-2022 01:10:06	Finished duplicate element processing
+11-06-2022 01:10:07	Finished importing database.
+11-06-2022 01:10:07	A summary of the import was saved to the following location: H:\DatabaseProject\DatabaseProject\Import Schema Logs\DatabaseProject_20220611073918.log
+11-06-2022 01:10:07	Click Finish to continue...
